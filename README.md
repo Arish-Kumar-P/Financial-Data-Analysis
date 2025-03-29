@@ -1,59 +1,58 @@
-# Financial Data Analysis and Visualization
+## Financial Data Analysis and Visualization
+Overview
+This project involves analyzing financial data using Python and Pandas. It focuses on extracting insights from multiple datasets, such as financial transactions, client industry details, payment records, and subscription information. The analysis covers industry trends, subscription renewal rates, the impact of inflation, and annual payment trends.
 
-## Overview
-This project performs financial data analysis and visualization using Python and Pandas. It extracts insights from various datasets, such as financial transactions, client information, payments, and subscription details. The analysis includes industry trends, subscription renewal rates, inflation impact, and payment trends over time.
+**Features**
+Identifies the number of clients across different industries.
 
-## Features
-- **Client Industry Analysis:** Determines the number of clients in different industries.
-- **Subscription Renewal Insights:** Analyzes renewal rates across industries.
-- **Inflation Impact on Renewals:** Maps inflation rates to renewal periods.
-- **Payment Trends:** Identifies median payment trends over years.
-- **Data Visualization:** Uses bar charts and pie charts to present insights.
+Analyzes subscription renewal rates by industry.
 
-## Data Sources
-The project uses the following datasets:
-- `finanical_information.csv` - Contains financial indicators such as inflation rates.
-- `industry_client_details.csv` - Client information categorized by industry.
-- `payment_information.csv` - Records of payments made by clients.
-- `subscription_information.csv` - Subscription start and end dates, including renewal status.
+Computes inflation rates during subscription renewal periods.
 
-## Requirements
-To run this project, ensure you have the following Python libraries installed:
-```bash
-pip install pandas numpy matplotlib
-```
+Examines annual median payment trends.
 
-## Usage
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/financial-analysis.git
-cd financial-analysis
-```
-2. Place the CSV files in the `Master Data/` directory.
-3. Run the script:
-```bash
-python analysis.py
-```
+Uses visualizations, such as bar charts and pie charts, to represent key insights.
 
-## Visualizations
-- **Client Distribution:** Bar chart showing the number of clients in Finance Lending and Blockchain industries.
-- **Renewal Rates:** Pie chart representing industry-wise subscription renewals.
-- **Inflation Impact:** Computes the average inflation rate during renewals.
-- **Payment Trends:** Bar chart showing median payments per year.
+Data Sources
+The project works with multiple datasets in CSV format, including:
 
-## Sample Output
-- Number of Finance Lending clients: `XX`
-- Number of Blockchain clients: `XX`
-- Industry with highest renewal rate: `XYZ Industry`
-- Average inflation rate during renewals: `X.XX%`
-- Median payments per year: Displayed as a bar chart.
+A financial information file containing economic indicators such as inflation rates.
 
-## License
-This project is licensed under the MIT License.
+A client details file categorizing clients by their respective industries.
 
-## Author
-Developed by **Arish Kumar P**
+A payment records file that logs payments made by clients.
 
-## Contributions
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+A subscription information file that tracks subscription start and end dates, along with renewal statuses.
+
+Requirements
+To run this project, specific Python libraries must be installed, including Pandas, NumPy, and Matplotlib.
+
+Usage Instructions
+To execute this analysis:
+
+Clone the repository from GitHub.
+
+Navigate to the project directory.
+
+Place the required CSV files in the designated data folder.
+
+Run the Python script to perform the analysis.
+
+Visualizations
+A bar chart displays the distribution of clients in different industries, such as Finance Lending and Blockchain.
+
+A pie chart shows the subscription renewal rates for each industry.
+
+Inflation rates during renewal periods are analyzed to determine their impact.
+
+A bar chart illustrates median payments per year across all payment methods.
+
+Sample Output
+Displays the number of clients in Finance Lending and Blockchain industries.
+
+Highlights the industry with the highest subscription renewal rate.
+
+Prints the average inflation rate during subscription renewal periods.
+
+Presents the median amount paid per year using a bar chart.
 
