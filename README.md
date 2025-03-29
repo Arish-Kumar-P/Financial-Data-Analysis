@@ -25,15 +25,15 @@ To run this project, specific Python libraries must be installed, <br>
 
 
 ## Output and Visualizations
-**A bar chart displays the distribution of clients in different industries, such as Finance Lending and Blockchain.**
-![image](https://github.com/user-attachments/assets/7c58b8aa-a15f-43bc-af39-b82194ad7602)
+**A bar chart displays the distribution of clients in different industries, such as Finance Lending and Blockchain.** <br>
+![image](https://github.com/user-attachments/assets/7c58b8aa-a15f-43bc-af39-b82194ad7602)<br>
 
-**A bar chart illustrates Industry with highest Renewal Rate.**
-![image](https://github.com/user-attachments/assets/b19b332e-bb66-4535-aeb3-e9b574b7cc12)
+**A bar chart illustrates Industry with highest Renewal Rate.** <br>
+![image](https://github.com/user-attachments/assets/b19b332e-bb66-4535-aeb3-e9b574b7cc12) <br>
 
-**A pie chart shows the subscription renewal rates for each industry.**
-![image](https://github.com/user-attachments/assets/2f6e3abd-36b5-4877-a254-60cdf0e52e2e)
+**A pie chart shows the subscription renewal rates for each industry.** <br>
+![image](https://github.com/user-attachments/assets/2f6e3abd-36b5-4877-a254-60cdf0e52e2e) <br>
 
-**A bar chart illustrates median payments per year across all payment methods.**
-![image](https://github.com/user-attachments/assets/69aa1945-3dbd-4c49-8332-e7b1af1d6e9f)
+**A bar chart illustrates median payments per year across all payment methods.** <br>
+![image](https://github.com/user-attachments/assets/69aa1945-3dbd-4c49-8332-e7b1af1d6e9f) <br>
 
