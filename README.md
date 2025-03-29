@@ -11,14 +11,17 @@ This project performs financial data analysis and visualization using Python and
 - **Data Visualization:** Uses bar charts and pie charts to present insights.
 
 ## Data Sources
-The project uses the following datasets:
+I am using following datasets:
 - `finanical_information.csv` - Contains financial indicators such as inflation rates.
 - `industry_client_details.csv` - Client information categorized by industry.
 - `payment_information.csv` - Records of payments made by clients.
 - `subscription_information.csv` - Subscription start and end dates, including renewal status.
 
 ## Requirements
-To run this project, specific Python libraries must be installed, including Pandas, NumPy, and Matplotlib.
+To run this project, specific Python libraries must be installed, 
+`Pandas`
+`NumPy`
+`Matplotlib`
 
 Usage Instructions
 To execute this analysis:
