@@ -18,84 +18,22 @@ I am using following datasets:
 - `subscription_information.csv` - Subscription start and end dates, including renewal status.
 
 ## Requirements
-To run this project, specific Python libraries must be installed, 
-`Pandas`
-`NumPy`
-`Matplotlib`
-
-Usage Instructions
-To execute this analysis:
-
-Clone the repository from GitHub.
-
-Navigate to the project directory.
-
-Place the required CSV files in the designated data folder.
-
-Run the Python script to perform the analysis.
-
-## Visualizations
-A bar chart displays the distribution of clients in different industries, such as Finance Lending and Blockchain.
-
-A pie chart shows the subscription renewal rates for each industry.
-
-Inflation rates during renewal periods are analyzed to determine their impact.
-
-A bar chart illustrates median payments per year across all payment methods.
-
-## Sample Output
-Displays the number of clients in Finance Lending and Blockchain industries.
-
-Highlights the industry with the highest subscription renewal rate.
-
-Prints the average inflation rate during subscription renewal periods.
-
-Presents the median amount paid per year using a bar chart.
+To run this project, specific Python libraries must be installed, <br>
+`Pandas`<br>
+`NumPy`<br>
+`Matplotlib`<br>
 
 
-# Financial Data Analysis and Visualization
+## Output and Visualizations
+**A bar chart displays the distribution of clients in different industries, such as Finance Lending and Blockchain.**
+![image](https://github.com/user-attachments/assets/7c58b8aa-a15f-43bc-af39-b82194ad7602)
 
+**A bar chart illustrates Industry with highest Renewal Rate.**
+![image](https://github.com/user-attachments/assets/b19b332e-bb66-4535-aeb3-e9b574b7cc12)
 
+**A pie chart shows the subscription renewal rates for each industry.**
+![image](https://github.com/user-attachments/assets/2f6e3abd-36b5-4877-a254-60cdf0e52e2e)
 
-
-## Requirements
-To run this project, ensure you have the following Python libraries installed:
-```bash
-pip install pandas numpy matplotlib
-```
-
-## Usage
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/financial-analysis.git
-cd financial-analysis
-```
-2. Place the CSV files in the `Master Data/` directory.
-3. Run the script:
-```bash
-python analysis.py
-```
-
-## Visualizations
-- **Client Distribution:** Bar chart showing the number of clients in Finance Lending and Blockchain industries.
-- **Renewal Rates:** Pie chart representing industry-wise subscription renewals.
-- **Inflation Impact:** Computes the average inflation rate during renewals.
-- **Payment Trends:** Bar chart showing median payments per year.
-
-## Sample Output
-- Number of Finance Lending clients: `XX`
-- Number of Blockchain clients: `XX`
-- Industry with highest renewal rate: `XYZ Industry`
-- Average inflation rate during renewals: `X.XX%`
-- Median payments per year: Displayed as a bar chart.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-Developed by **Arish Kumar P**
-
-## Contributions
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
+**A bar chart illustrates median payments per year across all payment methods.**
+![image](https://github.com/user-attachments/assets/69aa1945-3dbd-4c49-8332-e7b1af1d6e9f)
 
